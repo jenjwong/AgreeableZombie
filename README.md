@@ -32,12 +32,10 @@ nodemon server.js
 ```
 ### Seeding the Database
 ```
-
 1. go to postman
 2. make a post request ONLY ONCE to http://localhost:8000/api/books
 3. comment all the stuff that you just uncommented.
 4. save the bookController.js
-
 
 
 ```
