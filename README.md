@@ -30,18 +30,13 @@ nodemon server.js
 //visit localhost:8000 in the browser.
 
 ```
-### Installing Dependencies
+### Seeding the Database
 ```
-Run mongod in separate tab
-run npm install to install middleware and morgan
 
-for populating the database - 
-1. go to bookController.js
-2. uncomment the stuff inside addBook method
-3. go to postman
-4. make a post request ONLY ONCE to http://localhost:8000/api/books
-5. comment all the stuff that you just uncommented.
-6. save the bookController.js
+1. go to postman
+2. make a post request ONLY ONCE to http://localhost:8000/api/books
+3. comment all the stuff that you just uncommented.
+4. save the bookController.js
 
 
 
