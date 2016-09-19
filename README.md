@@ -3,10 +3,10 @@
 ## Team
 * **Ashwini Jogwar** - Product Owner
 * **Cathy Lee** - Scrum Master
-* **David Doan** - Development Team Member
-* **Jen Wong** - Development Team Member
+* **David Doan** - Software Engineer
+* **Jen Wong** - Software Engineer
 
-### Demo
+### Deployed MVP:
 http://159.203.213.49:8000
 
 ### Requirements
