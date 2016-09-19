@@ -1,5 +1,4 @@
-
-![](https://github.com/jenjwong/Read-With-Me/tree/master/documentation/screenshot.png)
+![](https://github.com/jenjwong/Read-With-Me/blob/master/client/assets/readwithme-logo.png)
 ## Team
 * **Ashwini Jogwar** - Product Owner
 * **Cathy Lee** - Scrum Master
@@ -13,6 +12,8 @@ http://159.203.213.49:8000
 * node.js - v6.2.0
 * mongodb
 * Go to Twilio's site and follow directions at (https://www.twilio.com/docs/api/ip-messaging/guides/quickstart-js) to create a Twilio account to get SID and API keys
+ 
+![](https://github.com/jenjwong/Read-With-Me/blob/master/documentation/screenshot.png)
 
 ### Description
 *Read With Me* is a remote reading app, that allows parents who are away from their kids to interactively read and webcam with them online. Both parties can draw on the storybook, navigate pages, and make each page image animate.
