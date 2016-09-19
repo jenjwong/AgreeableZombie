@@ -1,5 +1,5 @@
-![Alt text](/client/assets/readwithme-logo.png "Read With Me Logo")
 
+![](https://github.com/jenjwong/Read-With-Me/tree/master/documentation/screenshot.png)
 ## Team
 * **Ashwini Jogwar** - Product Owner
 * **Cathy Lee** - Scrum Master
